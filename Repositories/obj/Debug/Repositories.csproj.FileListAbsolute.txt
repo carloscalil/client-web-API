@@ -1,0 +1,18 @@
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Repositories\bin\Debug\Repositories.dll
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Repositories\bin\Debug\Repositories.pdb
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Repositories\bin\Debug\Models.dll
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Repositories\bin\Debug\Models.pdb
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Repositories\obj\Debug\Repositories.dll
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Repositories\obj\Debug\Repositories.pdb
+C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\bin\Debug\Repositories.dll
+C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\bin\Debug\Repositories.pdb
+C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\bin\Debug\Models.dll
+C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\bin\Debug\Models.pdb
+C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\obj\Debug\Repositories.csproj.CopyComplete
+C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\obj\Debug\Repositories.dll
+C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\obj\Debug\Repositories.pdb

@@ -1,0 +1,6 @@
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Logger\bin\Debug\Logger.dll
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Logger\bin\Debug\Logger.pdb
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Logger\obj\Debug\Logger.csproj.AssemblyReference.cache
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Logger\obj\Debug\Logger.csproj.CoreCompileInputs.cache
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Logger\obj\Debug\Logger.dll
+D:\Cursos\moura\.net-angular-2022-turma04\aulas\projetos\web\Logger\obj\Debug\Logger.pdb

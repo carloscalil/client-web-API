@@ -1,0 +1,20 @@
+
+------
+Data:26-04-2023 10:56:03 
+ Mensagem:Referência de objeto não definida para uma instância de um objeto. 
+ StackTrace:   em Repositories.Database.SQLServer.ADO.Medico.get() na C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\Database\SQLServer\ADO\Medico.cs:linha 28
+   em web_api.Controllers.MedicosController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\MedicosController.cs:linha 26 
+ InnerException: 
+ Tipo do erro: System.NullReferenceException 
+ Source: Repositories 
+ TargetSite: System.Collections.Generic.List`1[Models.Medico] get()
+
+------
+Data:26-04-2023 10:58:10 
+ Mensagem:Referência de objeto não definida para uma instância de um objeto. 
+ StackTrace:   em Repositories.Database.SQLServer.ADO.Medico.get() na C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\Database\SQLServer\ADO\Medico.cs:linha 28
+   em web_api.Controllers.MedicosController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\MedicosController.cs:linha 26 
+ InnerException: 
+ Tipo do erro: System.NullReferenceException 
+ Source: Repositories 
+ TargetSite: System.Collections.Generic.List`1[Models.Medico] get()

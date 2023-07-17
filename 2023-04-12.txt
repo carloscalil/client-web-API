@@ -1,0 +1,19 @@
+
+------
+Data:12-04-2023 10:58:30 
+ Mensagem:Referência de objeto não definida para uma instância de um objeto. 
+ StackTrace:   em web_api.Configurations.SQLServer.getConnectionString() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Configurations\SQLServer.cs:linha 12
+   em web_api.Controllers.MedicosController..ctor() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\MedicosController.cs:linha 13 
+ InnerException: 
+ Tipo do erro: System.NullReferenceException 
+ Source: web-api 
+ TargetSite: System.String getConnectionString()
+
+------
+Data:12-04-2023 10:58:37 
+ Mensagem:Referência de objeto não definida para uma instância de um objeto. 
+ StackTrace:   em web_api.Controllers.MedicosController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\MedicosController.cs:linha 25 
+ InnerException: 
+ Tipo do erro: System.NullReferenceException 
+ Source: web-api 
+ TargetSite: System.Web.Http.IHttpActionResult Get()

@@ -1,0 +1,169 @@
+
+------
+Data:08-04-2023 14:18:00 
+ Mensagem:paciente.Email 
+ StackTrace:   em System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   em System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   em System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   em Repositories.Database.SQLServer.ADO.Paciente.get(String connectionString) na C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\Database\SQLServer\ADO\Paciente.cs:linha 29
+   em web_api.Controllers.PacientesController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\PacientesController.cs:linha 16 
+ InnerException: 
+ Tipo do erro: System.IndexOutOfRangeException 
+ Source: System.Data 
+ TargetSite: Int32 GetOrdinal(System.String)
+
+------
+Data:08-04-2023 14:18:19 
+ Mensagem:paciente.Email 
+ StackTrace:   em System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   em System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   em System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   em Repositories.Database.SQLServer.ADO.Paciente.get(String connectionString) na C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\Database\SQLServer\ADO\Paciente.cs:linha 29
+   em web_api.Controllers.PacientesController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\PacientesController.cs:linha 16 
+ InnerException: 
+ Tipo do erro: System.IndexOutOfRangeException 
+ Source: System.Data 
+ TargetSite: Int32 GetOrdinal(System.String)
+
+------
+Data:08-04-2023 14:18:32 
+ Mensagem:paciente.Email 
+ StackTrace:   em System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   em System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   em System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   em Repositories.Database.SQLServer.ADO.Paciente.get(String connectionString) na C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\Database\SQLServer\ADO\Paciente.cs:linha 29
+   em web_api.Controllers.PacientesController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\PacientesController.cs:linha 16 
+ InnerException: 
+ Tipo do erro: System.IndexOutOfRangeException 
+ Source: System.Data 
+ TargetSite: Int32 GetOrdinal(System.String)
+
+------
+Data:08-04-2023 14:18:56 
+ Mensagem:paciente.Email 
+ StackTrace:   em System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   em System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   em System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   em Repositories.Database.SQLServer.ADO.Paciente.get(String connectionString) na C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\Database\SQLServer\ADO\Paciente.cs:linha 29
+   em web_api.Controllers.PacientesController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\PacientesController.cs:linha 16 
+ InnerException: 
+ Tipo do erro: System.IndexOutOfRangeException 
+ Source: System.Data 
+ TargetSite: Int32 GetOrdinal(System.String)
+
+------
+Data:08-04-2023 14:20:47 
+ Mensagem:paciente.Email 
+ StackTrace:   em System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   em System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   em System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   em Repositories.Database.SQLServer.ADO.Paciente.get(String connectionString) na C:\Users\calil\OneDrive\Área de Trabalho\web\Repositories\Database\SQLServer\ADO\Paciente.cs:linha 29
+   em web_api.Controllers.PacientesController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\PacientesController.cs:linha 16 
+ InnerException: 
+ Tipo do erro: System.IndexOutOfRangeException 
+ Source: System.Data 
+ TargetSite: Int32 GetOrdinal(System.String)
+
+------
+Data:08-04-2023 14:22:13 
+ Mensagem:paciente.Email 
+ StackTrace:   em System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   em System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   em System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   em Repositories.Database.SQLServer.ADO.Paciente.get(String connectionString)
+   em web_api.Controllers.PacientesController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\PacientesController.cs:linha 16 
+ InnerException: 
+ Tipo do erro: System.IndexOutOfRangeException 
+ Source: System.Data 
+ TargetSite: Int32 GetOrdinal(System.String)
+
+------
+Data:08-04-2023 14:22:25 
+ Mensagem:paciente.Email 
+ StackTrace:   em System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   em System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   em System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   em Repositories.Database.SQLServer.ADO.Paciente.get(String connectionString)
+   em web_api.Controllers.PacientesController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\PacientesController.cs:linha 16 
+ InnerException: 
+ Tipo do erro: System.IndexOutOfRangeException 
+ Source: System.Data 
+ TargetSite: Int32 GetOrdinal(System.String)
+
+------
+Data:08-04-2023 14:22:29 
+ Mensagem:paciente.Email 
+ StackTrace:   em System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   em System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   em System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   em Repositories.Database.SQLServer.ADO.Paciente.get(String connectionString)
+   em web_api.Controllers.PacientesController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\PacientesController.cs:linha 16 
+ InnerException: 
+ Tipo do erro: System.IndexOutOfRangeException 
+ Source: System.Data 
+ TargetSite: Int32 GetOrdinal(System.String)
+
+------
+Data:08-04-2023 14:22:31 
+ Mensagem:paciente.Email 
+ StackTrace:   em System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   em System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   em System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   em Repositories.Database.SQLServer.ADO.Paciente.get(String connectionString)
+   em web_api.Controllers.PacientesController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\PacientesController.cs:linha 16 
+ InnerException: 
+ Tipo do erro: System.IndexOutOfRangeException 
+ Source: System.Data 
+ TargetSite: Int32 GetOrdinal(System.String)
+
+------
+Data:08-04-2023 14:22:46 
+ Mensagem:paciente.Email 
+ StackTrace:   em System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   em System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   em System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   em Repositories.Database.SQLServer.ADO.Paciente.get(String connectionString)
+   em web_api.Controllers.PacientesController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\PacientesController.cs:linha 16 
+ InnerException: 
+ Tipo do erro: System.IndexOutOfRangeException 
+ Source: System.Data 
+ TargetSite: Int32 GetOrdinal(System.String)
+
+------
+Data:08-04-2023 14:23:02 
+ Mensagem:paciente.Email 
+ StackTrace:   em System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   em System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   em System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   em Repositories.Database.SQLServer.ADO.Paciente.get(String connectionString)
+   em web_api.Controllers.PacientesController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\PacientesController.cs:linha 16 
+ InnerException: 
+ Tipo do erro: System.IndexOutOfRangeException 
+ Source: System.Data 
+ TargetSite: Int32 GetOrdinal(System.String)
+
+------
+Data:08-04-2023 14:24:01 
+ Mensagem:paciente.Email 
+ StackTrace:   em System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   em System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   em System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   em Repositories.Database.SQLServer.ADO.Paciente.get(String connectionString)
+   em web_api.Controllers.PacientesController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\PacientesController.cs:linha 16 
+ InnerException: 
+ Tipo do erro: System.IndexOutOfRangeException 
+ Source: System.Data 
+ TargetSite: Int32 GetOrdinal(System.String)
+
+------
+Data:08-04-2023 14:24:44 
+ Mensagem:paciente.Email 
+ StackTrace:   em System.Data.ProviderBase.FieldNameLookup.GetOrdinal(String fieldName)
+   em System.Data.SqlClient.SqlDataReader.GetOrdinal(String name)
+   em System.Data.SqlClient.SqlDataReader.get_Item(String name)
+   em Repositories.Database.SQLServer.ADO.Paciente.get(String connectionString)
+   em web_api.Controllers.PacientesController.Get() na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\PacientesController.cs:linha 16 
+ InnerException: 
+ Tipo do erro: System.IndexOutOfRangeException 
+ Source: System.Data 
+ TargetSite: Int32 GetOrdinal(System.String)

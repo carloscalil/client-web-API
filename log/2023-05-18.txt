@@ -1,0 +1,54 @@
+
+------
+Data:18-05-2023 09:28:03 
+ Mensagem:Referência de objeto não definida para uma instância de um objeto. 
+ StackTrace:   em web_api.Controllers.MedicosController.Get(Int32 id) na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\MedicosController.cs:linha 46 
+ InnerException: 
+ Tipo do erro: System.NullReferenceException 
+ Source: web-api 
+ TargetSite: System.Web.Http.IHttpActionResult Get(Int32)
+
+------
+Data:18-05-2023 09:28:20 
+ Mensagem:Referência de objeto não definida para uma instância de um objeto. 
+ StackTrace:   em web_api.Controllers.MedicosController.Get(Int32 id) na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\MedicosController.cs:linha 46 
+ InnerException: 
+ Tipo do erro: System.NullReferenceException 
+ Source: web-api 
+ TargetSite: System.Web.Http.IHttpActionResult Get(Int32)
+
+------
+Data:18-05-2023 09:28:38 
+ Mensagem:Referência de objeto não definida para uma instância de um objeto. 
+ StackTrace:   em web_api.Controllers.MedicosController.Get(Int32 id) na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\MedicosController.cs:linha 46 
+ InnerException: 
+ Tipo do erro: System.NullReferenceException 
+ Source: web-api 
+ TargetSite: System.Web.Http.IHttpActionResult Get(Int32)
+
+------
+Data:18-05-2023 09:28:54 
+ Mensagem:Referência de objeto não definida para uma instância de um objeto. 
+ StackTrace:   em web_api.Controllers.MedicosController.Get(Int32 id) na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\MedicosController.cs:linha 46 
+ InnerException: 
+ Tipo do erro: System.NullReferenceException 
+ Source: web-api 
+ TargetSite: System.Web.Http.IHttpActionResult Get(Int32)
+
+------
+Data:18-05-2023 09:29:50 
+ Mensagem:Referência de objeto não definida para uma instância de um objeto. 
+ StackTrace:   em web_api.Controllers.MedicosController.Get(Int32 id) na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\MedicosController.cs:linha 46 
+ InnerException: 
+ Tipo do erro: System.NullReferenceException 
+ Source: web-api 
+ TargetSite: System.Web.Http.IHttpActionResult Get(Int32)
+
+------
+Data:18-05-2023 09:30:57 
+ Mensagem:Referência de objeto não definida para uma instância de um objeto. 
+ StackTrace:   em web_api.Controllers.MedicosController.Get(Int32 id) na C:\Users\calil\OneDrive\Área de Trabalho\web\web-api\Controllers\MedicosController.cs:linha 46 
+ InnerException: 
+ Tipo do erro: System.NullReferenceException 
+ Source: web-api 
+ TargetSite: System.Web.Http.IHttpActionResult Get(Int32)
